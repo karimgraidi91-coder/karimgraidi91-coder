@@ -1,0 +1,38 @@
+# Privacy Policy for gh maps
+
+**Last Updated: November 7, 2026**
+
+This Privacy Policy describes how **gh maps** ("we", "our", or "us") collects, uses, and shares information when you use our mobile application ("Application"). By installing and using this Application, you agree to the collection and use of information in accordance with this policy.
+
+### 1. Information Collection and Use
+For a better experience while using our Application, we may require you to provide us with certain personally identifiable information, including but not limited to the device's geographical location. 
+
+* **Real-Time Location Data:** The Application requires access to your device's GPS location to provide accurate maps layout, navigation lines, and public transport routing features. This location data is processed locally on the device and transmitted anonymously to our backend container instances solely for calculating active routing paths.
+* **Device Identification:** We may collect non-personal standard hardware logs, operating system versions, and system view insets metrics to maintain smooth user interface behaviors.
+
+### 2. Third-Party Advertising and Mediation Services
+This Application implements monetization features powered by third-party advertising frameworks managed through the Google Mobile Ads SDK. These ad providers utilize automated cookies, identifiers, and real-time bidding auction mechanisms to serve targeted advertisements based on user interests.
+
+Our integrated primary ad network partners and specialized mediation sources include:
+* **Google AdMob:** Subject to the [Google Privacy & Terms](https://google.com).
+* **Yandex Advertising Network:** Subject to the [Yandex Privacy Policy](https://yandex.com).
+
+These networks may gather anonymous behavioral data, tracking cookies, and device advertisement IDs to execute payment bidding actions.
+
+### 3. Rewarded Payout Infrastructure
+The Application features an ad-suppression rewarded framework. Users can choose to watch a single video asset to gain a temporary 1-hour ad-free session. This system locally sets an absolute system timestamp key on your device and does not collect or store historical behavioral data related to standard reward cycles.
+
+### 4. Data Security
+We value your trust in providing us your information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+### 5. Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our temporary environment buffers.
+
+### 6. Intellectual Property & Rights Notice
+All mapping interfaces, vector styles, search components, design schemes, and structural layout configurations built within this Application are protected under global proprietary and open-source licensing laws. Unauthorized duplication, decompilation, redistribution, or modification of the source components or structural models is strictly prohibited.
+
+### 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this interface window.
+
+### 8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us through our official project support channel.
